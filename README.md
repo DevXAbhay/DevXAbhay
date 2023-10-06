@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=DevXAbhay&icon=4&color=2)](https://visitcount.itsvg.in)
 
 # 💫 About Me
-👋 Hey, I'm Abhay Arora
-📚 3rd-year BTech CSE student at DIT University
-💡 Enthusiastic about cloud computing and blockchain technology
-🌐 Exploring innovative possibilities in the tech world
+👋 Hey, I'm Abhay Arora<br>
+📚 3rd-year BTech CSE student at DIT University<br>
+💡 Enthusiastic about cloud computing and blockchain technology<br>
+🌐 Exploring innovative possibilities in the tech world<br>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhay.arora.007) 
