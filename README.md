@@ -2,7 +2,7 @@
 
 # 💫 About Me
 👋 Hey, I'm Abhay Arora<br>
-📚 3rd-year BTech CSE student at DIT University<br>
+📚 4th-year BTech CSE student at DIT University<br>
 💡 Enthusiastic about cloud computing and blockchain technology<br>
 🌐 Exploring innovative possibilities in the tech world<br>
 
